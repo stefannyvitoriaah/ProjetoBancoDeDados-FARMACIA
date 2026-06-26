@@ -1,5 +1,5 @@
 ## Descrição do Sistema: Gestão de Farmácia 
 
-A farmácia realiza a venda de medicamentos e produtos de higiene. Para cada medicamento, é necessário saber o nome, o princípio ativo e o preço de venda. Os medicamentos são organizados por Lotes, que possuem data de validade, data de fabricação e quantidade em estoque, sendo fornecidos por um Fabricante (CNPJ, nome e contato).
+A farmácia realiza a venda de medicamentos e produtos de higiene. Para cada medicamento, é necessário saber o nome, o princípio ativo e o preço de venda. Os medicamentos são organizados por Lotes, que possuem data de validade, data de fabricação e quantidade em estoque, sendo fornecidos por um Fabricante (CNPJ, nome e contato). 
 As Vendas são realizadas por um Funcionário (vendedor) e podem ser destinadas a um Cliente cadastrado (CPF, nome, endereço). O sistema deve registrar a data, hora e o valor total de cada venda.
 Caso o medicamento seja de uso controlado, o sistema deve obrigatoriamente registrar a Receita, vinculando o Médico responsável (CRM e especialidade) e o paciente. Além disso, a farmácia possui convênios com empresas, permitindo descontos específicos para funcionários dessas parceiras.

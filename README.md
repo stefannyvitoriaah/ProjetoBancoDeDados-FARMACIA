@@ -12,5 +12,3 @@ Este sistema visa gerenciar os processos operacionais de uma farmácia, incluind
 ## Autores(Após entrega 2)
 * Leilla Mendes da Silva
 * Stefanny Vitória da Costa Rosa
-
-## Entregas
